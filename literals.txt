@@ -1,0 +1,62 @@
+    {
+        "key": "l_ManageInteracContacts",
+        "value": "View and manage contacts",
+        "locale": "en-US"
+    },
+    {
+        "key": "m_retRegProductFirstPart",
+        "value": "If you wish to open a Spousal Contributor RRSP, LIRA, RRIF or LIF, please",
+        "locale": "en-US"
+    },
+    {
+        "key": "m_retRegProductSecondPart",
+        "value": "make an appointment",
+        "locale": "en-US"
+    },
+    {
+        "key": "m_retRegProductThirdPart",
+        "value": "or dial 1-888-359-1357.",
+        "locale": "en-US"
+    },
+    {
+        "key": "l_isPEP",
+        "value": "Are you a PEP (politically exposed person) or HIO (Head of International Organization)?",
+        "locale": "en-US"
+    },
+    {
+        "key": "l_CivicNumberStreetName",
+        "value": "Civic number and street name",
+        "locale": "en-US"
+    },
+    {
+        "key": "h_WireAmount",
+        "value": "Beneficiary Bank Information",
+        "locale": "en-US"
+    },
+    {
+        "key": "h_SenderInfo",
+        "value": "Sender Information",
+        "locale": "en-US"
+    },
+    {
+        "key": "h_BeneficiaryInfo",
+        "value": "Beneficiary Information",
+        "locale": "en-US"
+    },
+    {
+        "key": "m_maxLimitExceedErrorMsg",
+        "value": "Maximum allowed limit exceeded ($maxLimit$).",
+        "placeholders": {
+            "maxLimit": {
+                "content": "$1"
+            }
+        },
+        "locale": "en-US"
+    },
+    {
+        "key": "l_validateSortColumnCountErr",
+        "value": "parameters can be selected for sorting. Please unselect any existing selected sort parameter to change the selection",
+        "locale": "en-US"
+    },
+
+  
